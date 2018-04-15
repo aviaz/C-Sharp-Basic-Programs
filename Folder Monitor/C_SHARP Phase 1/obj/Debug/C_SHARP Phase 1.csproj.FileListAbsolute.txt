@@ -1,0 +1,7 @@
+C:\Users\Avia\Documents\Visual Studio 2017\Projects\C_SHARP Phase 1\C_SHARP Phase 1\bin\Debug\C_SHARP Phase 1.exe.config
+C:\Users\Avia\Documents\Visual Studio 2017\Projects\C_SHARP Phase 1\C_SHARP Phase 1\bin\Debug\C_SHARP Phase 1.exe
+C:\Users\Avia\Documents\Visual Studio 2017\Projects\C_SHARP Phase 1\C_SHARP Phase 1\bin\Debug\C_SHARP Phase 1.pdb
+C:\Users\Avia\Documents\Visual Studio 2017\Projects\C_SHARP Phase 1\C_SHARP Phase 1\obj\Debug\C_SHARP Phase 1.csprojResolveAssemblyReference.cache
+C:\Users\Avia\Documents\Visual Studio 2017\Projects\C_SHARP Phase 1\C_SHARP Phase 1\obj\Debug\C_SHARP Phase 1.csproj.CoreCompileInputs.cache
+C:\Users\Avia\Documents\Visual Studio 2017\Projects\C_SHARP Phase 1\C_SHARP Phase 1\obj\Debug\C_SHARP Phase 1.exe
+C:\Users\Avia\Documents\Visual Studio 2017\Projects\C_SHARP Phase 1\C_SHARP Phase 1\obj\Debug\C_SHARP Phase 1.pdb
